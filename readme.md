@@ -114,7 +114,7 @@ streamlit run app.py
 
 
 
-🔗 \[Add your Streamlit Cloud URL here after deployment]
+🔗 \[MoodTunes AI](https://moodtunes-ai.streamlit.app/)
 
 
 
