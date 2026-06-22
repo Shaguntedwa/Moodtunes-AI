@@ -1,3 +1,2 @@
-pandas
 streamlit
-google-generativeai
+google-genai
